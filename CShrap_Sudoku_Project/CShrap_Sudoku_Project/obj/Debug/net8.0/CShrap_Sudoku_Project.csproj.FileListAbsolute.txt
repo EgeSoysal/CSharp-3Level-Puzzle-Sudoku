@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\bin\Debug\net8.0\CShrap_Sudoku_Project.exe
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\bin\Debug\net8.0\CShrap_Sudoku_Project.deps.json
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\bin\Debug\net8.0\CShrap_Sudoku_Project.runtimeconfig.json
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\bin\Debug\net8.0\CShrap_Sudoku_Project.dll
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\bin\Debug\net8.0\CShrap_Sudoku_Project.pdb
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\CShrap_Sudoku_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\CShrap_Sudoku_Project.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\CShrap_Sudoku_Project.AssemblyInfo.cs
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\CShrap_Sudoku_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\CShrap_Sudoku_Project.dll
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\refint\CShrap_Sudoku_Project.dll
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\CShrap_Sudoku_Project.pdb
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\CShrap_Sudoku_Project.genruntimeconfig.cache
+C:\Users\user\source\repos\CShrap_Sudoku_Project\CShrap_Sudoku_Project\obj\Debug\net8.0\ref\CShrap_Sudoku_Project.dll
