@@ -11,5 +11,7 @@ Mid Level  6x6
 
 
 Development will continue. Please follow the versions.
+---
 Latest version: V.1
+---
 
