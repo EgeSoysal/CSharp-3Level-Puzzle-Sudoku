@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\bin\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.exe
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\bin\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.deps.json
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\bin\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.runtimeconfig.json
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\bin\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.dll
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\bin\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.pdb
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.dll
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\refint\CSharp_Sudoku_Project_V.1_Level-2.dll
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.pdb
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\CSharp_Sudoku_Project_V.1_Level-2.genruntimeconfig.cache
+C:\Users\user\source\repos\CSharp_Sudoku_Project_V.1_Level-2\CSharp_Sudoku_Project_V.1_Level-2\obj\Debug\net8.0\ref\CSharp_Sudoku_Project_V.1_Level-2.dll
